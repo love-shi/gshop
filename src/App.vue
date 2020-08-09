@@ -25,6 +25,8 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylu">
+  *
+    touch-action pan-y
   #app
     width 100%
     height 100%
